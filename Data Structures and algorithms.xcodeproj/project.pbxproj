@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A72ADF752C87AED100109668 /* Leetcode Problems.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A72ADF732C87AED100109668 /* Leetcode Problems.cpp */; };
 		A7A811E72C84390B00092E76 /* Arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A7A811E52C84390B00092E76 /* Arrays.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A72ADF732C87AED100109668 /* Leetcode Problems.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "Leetcode Problems.cpp"; path = "Leetcode/Leetcode Problems.cpp"; sourceTree = "<group>"; };
 		A7A811DB2C8436F800092E76 /* Data Structures and algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Data Structures and algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7A811E52C84390B00092E76 /* Arrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Arrays.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A7A811E52C84390B00092E76 /* Arrays.cpp */,
+				A72ADF732C87AED100109668 /* Leetcode Problems.cpp */,
 			);
 			path = "Data Structures and algorithms";
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7A811E72C84390B00092E76 /* Arrays.cpp in Sources */,
+				A72ADF752C87AED100109668 /* Leetcode Problems.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
