@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A71400782C8E55E900C673B5 /* Linked list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A71400762C8E55E900C673B5 /* Linked list.cpp */; };
+		A71FBCBC2CA148DF009AC875 /* Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A71FBCBB2CA148DF009AC875 /* Stack.cpp */; };
 		A72ADF752C87AED100109668 /* Leetcode Problems.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A72ADF732C87AED100109668 /* Leetcode Problems.cpp */; };
 		A7A811E72C84390B00092E76 /* Arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A7A811E52C84390B00092E76 /* Arrays.cpp */; };
 /* End PBXBuildFile section */
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		A71400762C8E55E900C673B5 /* Linked list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Linked list.cpp"; sourceTree = "<group>"; };
 		A71400772C8E55E900C673B5 /* Linked list.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Linked list.hpp"; sourceTree = "<group>"; };
+		A71FBCBB2CA148DF009AC875 /* Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stack.cpp; sourceTree = "<group>"; };
 		A72ADF732C87AED100109668 /* Leetcode Problems.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "Leetcode Problems.cpp"; path = "Leetcode/Leetcode Problems.cpp"; sourceTree = "<group>"; };
 		A7A811DB2C8436F800092E76 /* Data Structures and algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Data Structures and algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7A811E52C84390B00092E76 /* Arrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Arrays.cpp; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				A7A811E52C84390B00092E76 /* Arrays.cpp */,
 				A72ADF732C87AED100109668 /* Leetcode Problems.cpp */,
 				A71400762C8E55E900C673B5 /* Linked list.cpp */,
+				A71FBCBB2CA148DF009AC875 /* Stack.cpp */,
 				A71400772C8E55E900C673B5 /* Linked list.hpp */,
 			);
 			path = "Data Structures and algorithms";
@@ -127,6 +130,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A71FBCBC2CA148DF009AC875 /* Stack.cpp in Sources */,
 				A7A811E72C84390B00092E76 /* Arrays.cpp in Sources */,
 				A71400782C8E55E900C673B5 /* Linked list.cpp in Sources */,
 				A72ADF752C87AED100109668 /* Leetcode Problems.cpp in Sources */,
